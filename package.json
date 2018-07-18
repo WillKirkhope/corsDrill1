@@ -14,5 +14,3 @@
     "express": "^4.16.3"
   }
 }
-
-  //Telling me a start script is running in node by putting in the start line
